@@ -14,7 +14,7 @@ To use this app, first, clone the package to your local machine.
 
     git clone https://github.com/mlh/copilot-starter
 
-_If you're using Visual Studio Code, this can be done by using the command pallet (`Ctrl-⇧-P` / `⌘-⇧-P`) and selecting `Git: Clone`, then typing `mlh/copilot-starter`._
+_If you're using Visual Studio Code, this can be done by using the command pallet (`Ctrl-⇧-P` / `⌘-⇧-P`) and using the ssh for cloning from code->
 
 ### 2. Install the required packages
 
