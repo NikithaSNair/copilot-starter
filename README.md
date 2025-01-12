@@ -14,7 +14,7 @@ To use this app, first, clone the package to your local machine.
 
     git clone https://github.com/mlh/copilot-starter
 
-_If you're using Visual Studio Code, this can be done by using the command pallet (`Ctrl-⇧-P` / `⌘-⇧-P`) and using the ssh for cloning from code->
+_If you're using Visual Studio Code, this can be done by using the ssh for cloning from @nquinlan 's copilot-starter-->code-->copy ssh. Paste this url on the Visual Studio Code using the command pallet (`Ctrl-⇧-P` / `⌘-⇧-P`) and then click enter. You''now have to create a new file on your lap to create a location for your new repo.
 
 ### 2. Install the required packages
 
